@@ -1,0 +1,26 @@
+---
+title: "Leila Ramirez"
+image: ""
+navbar:
+  title:
+  right:
+    - text: "Home"
+      href: index.html
+output: html_document
+---
+ 
+I'm Leila Ramirez and I am currently studying statistics and data science at UT Austin!
+
+```{r}
+#insert code
+#Use rmarkdown::render_site() to render html
+```
+
+[LinkedIn](www.linkedin.com/in/leila-ramirez-a18906383)
+
+[GitHub](https://github.com/Leila-Ramirez)
+
+
+
+![](image link)
+
